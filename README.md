@@ -1,4 +1,4 @@
-# Proyecto final - curso coderhouse "SQL".
+# Proyecto final - curso coderhouse "SQL"
 
 Tematica de la base de datos: Futbol.
 
