@@ -340,15 +340,3 @@ insert into partido (fecha, id_estadio, id_equipo1, id_equipo2, id_arbitro, gole
 insert into partido (fecha, id_estadio, id_equipo1, id_equipo2, id_arbitro, goles_equipo1, goles_equipo2, resultado) values ('2022-08-15', 18, 18, 19, 13, 5, 5, '5-5');
 insert into partido (fecha, id_estadio, id_equipo1, id_equipo2, id_arbitro, goles_equipo1, goles_equipo2, resultado) values ('2022-07-10', 19, 19, 20, 8, 5, 1, '5-1');
 insert into partido (fecha, id_estadio, id_equipo1, id_equipo2, id_arbitro, goles_equipo1, goles_equipo2, resultado) values ('2022-07-30', 20, 20, 1, 2, 1, 1, '1-1');
-
-select p.fecha as fecha, s.nombre as estadio, e1.nombre as equipo1, e2.nombre as equipo2, a.nombre as arbitro, resultado
-from partido p
-join estadio s on s.id_estadio = p.id_estadio
-join arbitro a on a.id_arbitro = p.id_arbitro
-left join equipo e1 on e1.id_equipo = p.id_equipo1
-left join equipo e2 on e2.id_equipo = p.id_equipo2
-where id_partido = 14;
-
-select * from partido where id_partido = 14;
-
-select * from equipo
