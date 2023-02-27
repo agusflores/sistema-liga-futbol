@@ -25,7 +25,7 @@ from ciudad; -- inserts con importacion de datos.
 
 insert into arbitro(nombre, id_pais)
 values('Fernando Rapallini', 1),
-	  ('Andrés Cunha', 2),
+      ('Andrés Cunha', 2),
       ('Anderson Daronco', 3),
       ('Julio Bascuñán', 4),
       ('Eber Aquino', 5),
