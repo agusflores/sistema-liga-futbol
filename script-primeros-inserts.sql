@@ -5,7 +5,6 @@ insert into posicion(nombre) values ('Defensor');
 insert into posicion(nombre) values ('Mediocampista');
 insert into posicion(nombre) values ('Delantero');
 
-	
 ----------------------------------------------------- PIERNA HABIL ----------------------------------------------------- 
 
 insert into pierna_habil(descripcion) values ('Izquierda');
