@@ -15,4 +15,4 @@
 
 * Tercera entrega
 
-- Archivo 'script-creacion-primeras-views' con los scripts de creacion de primeras vistas. 
+  - Archivo 'script-creacion-primeras-views' con los scripts de creacion de primeras vistas. 
