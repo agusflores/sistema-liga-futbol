@@ -12,3 +12,7 @@
   - Archivo 'script-primeros-inserts.sql' con los scripts de primeras inserciones a las tablas de la BD. <br>
   - Archivo 'PAIS.csv', 'CIUDAD.csv' y 'EQUIPO.csv' con los datos a importar en las tablas correspondientes. <br>
   - Archivo 'paso-a-paso-importacion.pdf' con la explicacion del paso a paso de importacion de datos.
+
+* Tercera entrega
+
+- Archivo 'script-creacion-primeras-views' con los scripts de creacion de primeras vistas. 
