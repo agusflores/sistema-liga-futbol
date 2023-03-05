@@ -15,4 +15,8 @@
 
 * Tercera entrega
 
-  - Archivo 'script-creacion-primeras-views' con los scripts de creacion de primeras vistas. 
+  - Archivo 'script-creacion-primeras-views.sql' con los scripts de creacion de primeras vistas. 
+  
+* Cuarta entrega 
+
+  - Archivo 'script-creacion-primeras-functions.sql' con los scripts de creacion de las primeras funciones. 
