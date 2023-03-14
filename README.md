@@ -19,4 +19,10 @@
   
 * Cuarta entrega 
 
-  - Archivo 'script-creacion-primeras-functions.sql' con los scripts de creacion de las primeras funciones. 
+  - Archivo 'script-creacion-primeras-functions.sql' con los scripts de creacion de las primeras funciones.
+  
+* Quinta entrega 
+
+  - Carpeta 'entregas' con archivos 'pdf' de las primeras dos entegas realizadas por la plataforma. 
+  
+  
