@@ -25,4 +25,12 @@
 
   - Carpeta 'entregas' con archivos 'pdf' de las primeras dos entegas realizadas por la plataforma. 
   
+* Sexta entrega 
+
+  - Archivo 'script-creacion-users-grants.sql' con los scripts de creacion de users y grants a esos usuarios.
+  
+* Septima entrega 
+
+  - Archivo 'script-sublenguaje-tcl' de desafio entregable. 
+  
   
