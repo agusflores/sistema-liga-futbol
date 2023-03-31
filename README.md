@@ -2,37 +2,33 @@
 
  **Tematica de la base de datos: Futbol**
 
+Para poder visualizar el proyecto final terminado puede dirigirse a la carpeta **"proyecto final"** y vera lo siguiente: 
 
-* Primer entrega 
+* archivo de implementacion
+* documento de trabajo
+* scripts
 
-  - Archivo 'script-creacion-tablas-proyecto-final.sql' con los scripts de creacion de tablas
+En la primer carpeta puede ver un archivo **"archivo de implementacion"** el cual documenta el paso a paso del proyecto. 
 
-* Segunda entrega
+En la segunda carpeta se pueden visualizar los siguientes dos archivos: 
 
-  - Archivo 'script-primeros-inserts.sql' con los scripts de primeras inserciones a las tablas de la BD. <br>
-  - Archivo 'PAIS.csv', 'CIUDAD.csv' y 'EQUIPO.csv' con los datos a importar en las tablas correspondientes. <br>
-  - Archivo 'paso-a-paso-importacion.pdf' con la explicacion del paso a paso de importacion de datos.
+* documento de trabajo
+* informe 
 
-* Tercera entrega
+El primero es el documento que detalla lo utilizado en el proyecto, cual es su objetivo, etc. 
+El segundo es el informe de los datos almacenados en la base de datos
 
-  - Archivo 'script-creacion-primeras-views.sql' con los scripts de creacion de primeras vistas. 
-  
-* Cuarta entrega 
+Por ultimo, si se dirige a la tercer carpeta **"scripts"** podra visualizar lo siguiente:
 
-  - Archivo 'script-creacion-primeras-functions.sql' con los scripts de creacion de las primeras funciones.
-  
-* Quinta entrega 
+0. Esquema y Tablas
+1. Insercion de datos
+2. Vistas
+3. Funciones
+4. Procedimientos
+5. Trigger + Tablas 'Log'
+6. Lenguaje DCL
+7. Lenguaje TCL
+8. Back up
 
-  - Carpeta 'entregas' con archivos 'pdf' de las primeras dos entegas realizadas por la plataforma. 
-  
-* Sexta entrega 
+Dentro de cada una de estas carpetas esta el archivo correspondiente al desarrollo e implementacion de cada una de las tareas. 
 
-  - Archivo 'script-creacion-users-grants.sql' con los scripts de creacion de users y grants a esos usuarios.
-  
-* Septima entrega 
-
-  - Archivo 'script-sublenguaje-tcl' de desafio entregable. 
-  
-* Octava entrega 
-
-  - Carpeta 'backup' con archivo 'backup-proyecto-final-20230323.sql' con backup de datos de las tablas de la base de datos del proyecto.
