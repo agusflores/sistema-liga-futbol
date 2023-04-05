@@ -84,9 +84,8 @@ CREATE TABLE PARTIDO (
     id_arbitro int not null, 
     goles_equipo1 int, 
     goles_equipo2 int, 
-    resultado varchar(20),
     PRIMARY KEY(id_partido),
-	FOREIGN KEY (id_estadio) REFERENCES ESTADIO(id_estadio),
+    FOREIGN KEY (id_estadio) REFERENCES ESTADIO(id_estadio),
     FOREIGN KEY (id_equipo1) REFERENCES EQUIPO(id_equipo),
     FOREIGN KEY (id_equipo2) REFERENCES EQUIPO(id_equipo),
     FOREIGN KEY (id_arbitro) REFERENCES ARBITRO(id_arbitro)
